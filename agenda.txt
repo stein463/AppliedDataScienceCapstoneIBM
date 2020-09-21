@@ -1,0 +1,16 @@
+TODO List:
+-Create multiple files to help with interaction between files in the folder
+-For each of the data frames put them into csv files and a seperate folder for the data
+-Have a parent file which contains all the modules and files used for the project
+
+
+
+
+
+
+- Data will contain the csv files executed
+- scripts will contain all the code
+    -This will contain multiple folders: collection, cleaning, and Analysis
+        -Collection: The webscraping and other files to direct toward csv
+        -cleaning: functions that clean up the data for usage in Analysis
+        -Analysis: This should be the only file with .ipynb this analyzes everything and draws conclusions.
