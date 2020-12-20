@@ -284,3 +284,20 @@ JavaScript warning: https://public.tableau.com/vizql/v_202032009221700/javascrip
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1608482694723	geckodriver	INFO	Listening on 127.0.0.1:63782
+1608482697849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TROYST~1\\AppData\\Local\\Temp\\rust_mozprofileNhMS45"
+1608482748803	geckodriver	INFO	Listening on 127.0.0.1:63898
+1608482751882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TROYST~1\\AppData\\Local\\Temp\\rust_mozprofileuInRmS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608482756199	Marionette	INFO	Listening on port 63913
+1608482756717	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://public.tableau.com/vizql/v_202042011171741/javascripts/vqlweb.js, line 79: unreachable code after return statement
+1608482803484	Marionette	INFO	Stopped listening on port 63913
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
