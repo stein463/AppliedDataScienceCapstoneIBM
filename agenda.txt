@@ -1,4 +1,46 @@
 TODO List:
+ 
+ - Try to construct and plot weighted clusters with Neural Networks to create weights.
+ - Figure out how to apply agglomerative cluster.
+ - Plot all this onto folium.
+ - Figure out steps after those.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -Create multiple files to help with interaction between files in the folder
 -For each of the data frames put them into csv files and a seperate folder for the data
 -Have a parent file which contains all the modules and files used for the project
