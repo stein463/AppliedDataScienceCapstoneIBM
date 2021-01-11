@@ -17,8 +17,8 @@ This will be used to solve the problem, by first understanding:
 - Where should testing locations be placed, in order to accommodate everyone to a fair and equal extent.
 - With the four-square api I will get hospital and pharmacy locations, the reason for this is because it is reasonable for people to seek medical care from either location, and as a result people would go there.
 
-The major variables are:
-- Data Frames:
+The major variables and functions are:
+- Data Frames: 
 	- zip_info_df: Gets demographics by ZIP
 	- hp_df: Hospital and Pharmacy Location Information
 	- zip_cases_df: Covid-19 cases by zip.
@@ -30,3 +30,9 @@ The major variables are:
 	- INDEXARRAY: Correlation indices of all relevant variables
 	- corr_arr_spearman: Spearman correlation with grand_zip_df and Cummulative Cases
 	- INDEXARRAYSPEARMAN: Top correlated variables from corr_arr_spearman
+- Functions:
+	- kmeansweight: Gives the kMeans clustering a weighting	
+	- zip_info: webscrapes demographic data
+	- custom_metric: Custom Metric used for dendrograms
+	- custom_metric0: Custom Metric used for dendrograms Spearman
+
