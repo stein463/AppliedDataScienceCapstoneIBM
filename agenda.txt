@@ -1,9 +1,9 @@
+The weighted Spearman KMeans was chosen
 TODO List:
+
+- Plot WSS, BSS, and SSE
  
- - Try to construct and plot weighted clusters with Neural Networks to create weights.
- - Figure out how to apply agglomerative cluster.
- - Plot all this onto folium.
- - Figure out steps after those.
+
 
 
 

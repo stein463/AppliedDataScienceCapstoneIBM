@@ -36,7 +36,7 @@ The major variables and functions are:
 	- custom_metric: Custom Metric used for dendrograms
 	- custom_metric0: Custom Metric used for dendrograms Spearman
 	
-There is a special section to load csv files called CSV backup and loading section. There is a stop cell with contents "print(df" to stop running contents.
+# There is a special section to load csv files called CSV backup and loading section. There is a stop cell with contents "print(df" to stop running contents.
 
 Parts with their description are:
 - Part 1 Data Retrieval: Involves gathering of data with webscraping
