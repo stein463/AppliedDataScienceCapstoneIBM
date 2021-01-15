@@ -5,10 +5,10 @@ This is the creation of the Capstone Project Notebook for IBM's Applied Data Sci
 # Problem Introduction
 Imagine the year is 2020 and you are living in the densely populated city of Columbus, Ohio in the midst of the COVID-19 pandemic, and you are starting to feel intense sickening pain. This alarms you, you want to find a place to get tested for a virus. However, testing may be in short supply and you are not sure where to go. The problem I am trying to solve is where testing locations should be set up in order to best test people from the COVID-19 pandemic. 
 
-3 sets of data are: 
-- four-square api data
-- zip code and demographic data
-- Covid-19 Cases by ZIP for Ohio 
+3 sets of data are and (what they are backed up as are): 
+- four-square api data (HospitalAndPharmacy.csv)
+- zip code and demographic data (ZipInformation.csv)
+- Covid-19 Cases by ZIP for Ohio (ZipCases.csv)
 
 As well as current testing locations.
  

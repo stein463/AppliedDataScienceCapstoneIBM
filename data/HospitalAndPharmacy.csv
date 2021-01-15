@@ -1,0 +1,238 @@
+,id,name,address,lat,lng,postalCode,cc,city,state,country
+0,4ed664e22fb6cc941132ed13,The Village At Westerville,215 Huber Village Blvd,40.102667,-82.916989,43081,US,Westerville,OH,United States
+1,4e806be17ee6677f0a2549a7,Child Development and Autism Centers,187 W Schrock Rd,40.109578478272105,-82.9317967594489,43081,US,Westerville,OH,United States
+2,4c3763da1e06d13ae6d7753e,Lifetime Pet Wellness,454 Lazelle Rd,40.136307,-82.995064,43240,US,Columbus,OH,United States
+3,550875f2498ed14f1962062f,Ohio State Outpatient Rehabilitation Gahanna YMCA,551 Ymca Pl,40.048370361328125,-82.85706329345703,43230,US,Gahanna,OH,United States
+4,501d17b8e4b09fbdec1c12c9,H12B HEM/ONC At NCH,,40.110147600152025,-83.0360353501819,43223,US,Columbus,OH,United States
+5,4b391ed3f964a520985625e3,Mount Carmel St. Ann's Hospital,500 S Cleveland Ave,40.11448386021365,-82.94704952392003,43081,US,Westerville,OH,United States
+6,50d368f4e4b0fc6a04506cb6,Polaris Innovation Centre,2001 Polaris Pkwy,40.142734999999995,-82.96368199999999,43240,US,Columbus,OH,United States
+7,4e4523811838e44e89955e65,Heartland Hospice Serving Central Ohio,6500 Busch Blvd,40.09846372,-82.99224163,43229,US,Columbus,OH,United States
+8,5f6ba0a26c680a653d7297da,Walk In Urgent Care,1085 Polaris Pkwy,40.1450558,-82.992258,43240,US,Columbus,OH,United States
+9,4b4f2baaf964a5201cfc26e3,St Ann's Medical Office Building,495 Cooper Rd,40.11489079987515,-82.94529492009354,43081,US,Westerville,OH,United States
+10,56d479f7cd1079129449fdf9,ExpressMed Urgent Care,445 Rocky Fork Blvd,40.012987,-82.865891,43230,US,Gahanna,OH,United States
+11,5aa0c52989e4904c8f3ece95,A and Z MEDICAL SUPPLIES,785 S State St,40.106709,-82.925485,43081,US,Westerville,OH,United States
+12,59b8a9bd4382ab14fe4a4cb3,SUN Behavioral Columbus,900 E Dublin Granville Rd,40.088686053597506,-82.99372033068846,43229,US,Columbus,OH,United States
+13,57fdceab498e5ca36ab26d75,The Little Clinic,1745 Morse Rd,40.05840053787491,-82.97298130091582,43229,US,Columbus,OH,United States
+14,5a8e4eceb54618599975b300,Columbus Vein Center,1120 Polaris Pkwy,40.14469826,-82.98928835,43240,US,Columbus,OH,United States
+15,53e2957411d2a4524e1c0ba4,Sunrise of Worthington,6525 N High St,40.0958,-83.018427,43085,US,Worthington,OH,United States
+16,4c04ed53187ec928f79fb77b,New Albany Gardens and Care Center,5691 Thompson Rd,40.062104217463435,-82.84079899855632,43230,US,Columbus,OH,United States
+17,4d87bda8401a224b2f3a6b18,OSU Divsion of Infectious Disease,N 1137 Doan Hall,40.102243423461914,-83.01411151885986,43210,US,Columbus,OH,United States
+18,4f32a111e4b0195893788eeb,Mount Carmel St.Anns Cath Lab,,40.11114538228888,-82.94006981765692,43081,US,Westerville,OH,United States
+19,4eef69ecbe7b6d6202c2a191,St Anns Hospital,,40.0960460526316,-82.98903829735971,43231,US,Columbus,OH,United States
+20,507f999ce4b0dd27bcac062f,nurse jane,,40.096717834472656,-82.95645141601562,43229,US,Columbus,OH,United States
+21,5c3609ec625a66002c95e1a6,The james Mammography Of Worthington,160 W Wilson Bridge Rd Ste 2200,40.108686999999996,-83.02114499999999,43085,US,Worthington,OH,United States
+22,4d8f74b9ca75b60ccebb14a9,Villa Angela,5700 Karl Rd,40.08265948608505,-82.9746163582971,43229,US,Columbus,OH,United States
+23,56379740498e53f521cc0447,Mt. Carmel St. Ann's Hospital,500 S Cleveland Ave,40.1144905090332,-82.94554901123047,43081,US,Westerville,OH,United States
+24,4bad3176f964a520a2373be3,Walgreens,1040 Polaris Pkwy,40.1473242,-82.9917054,43240,US,Columbus,OH,United States
+25,4b57712bf964a520b83728e3,CVS pharmacy,620 S Cleveland Ave,40.111086121881826,-82.94876986652748,43081,US,Westerville,OH,United States
+26,4c1a430901379521dca946f3,CVS pharmacy,900 N Hamilton Rd,40.04062645395832,-82.86420285701752,43230,US,Gahanna,OH,United States
+27,4bb236deeb3e952112b8c90a,CVS pharmacy,145 S State St,40.12191161167073,-82.93055071862652,43081,US,Westerville,OH,United States
+28,4bfdbdd5e529c928366dbb8c,CVS pharmacy,2100 E Dublin Granville Rd,40.08724016331654,-82.96076181501785,43229,US,Columbus,OH,United States
+29,4b258a5ff964a520827324e3,Walgreens,4890 N High St,40.06218504639367,-83.0190993659744,43214,US,Columbus,OH,United States
+30,4c507213dcb5d13a29390e09,CVS pharmacy,918 High St,40.09270961829337,-83.01722752160791,43085,US,Worthington,OH,United States
+31,4b801af3f964a520ae5230e3,CVS pharmacy,4280 Morse Rd,40.05698652613735,-82.88716793060303,43230,US,Columbus,OH,United States
+32,4bd70012cfa7b713da6c28da,CVS pharmacy,1211 Morse Rd,40.060694300538124,-82.98685269069306,43229,US,Columbus,OH,United States
+33,4ba263bff964a52014f437e3,CVS pharmacy,711 Park Rd,40.12584496733236,-82.9805455773308,43085,US,Worthington,OH,United States
+34,4c145921a1010f4706674c18,Walgreens,2150 E Dublin Granville Rd,40.08713388833148,-82.95941269705509,43229,US,Columbus,OH,United States
+35,4c06d6d48a81c9b6d3592690,Walgreens,3093 Cleveland Ave,40.0308027,-82.9643322,43224,US,Columbus,OH,United States
+36,4b4f708ff964a520aa0627e3,Kroger,1177 Polaris Pkwy,40.1400058,-82.9902128,43240,US,Columbus,OH,United States
+37,4b9a3d97f964a520b5a635e3,Walgreens,5195 N Hamilton Rd,40.0627706,-82.8636142,43230,US,Columbus,OH,United States
+38,4b2c32b1f964a52090c324e3,CVS pharmacy,2929 Stelzer Rd,40.03289676118964,-82.9112434387207,43219,US,Columbus,OH,United States
+39,4c6ee2b69c6d6dcb75d7cd7a,CVS pharmacy,1202 County Line Rd,40.132184792190316,-82.88654484217587,43081,US,Westerville,OH,United States
+40,4ba4f48df964a5202dc838e3,CVS pharmacy,60 N Stygler Rd,40.01967976605094,-82.89002487505996,43230,US,Gahanna,OH,United States
+41,4ca8b60ca6e08cfa3fd79194,The Vitamin Shoppe,4053 Morse Crossing,40.0531084,-82.9207206,43219,US,Columbus,OH,United States
+42,591c68c17269fe095021809b,Kroger Pharmacy,199 Graceland Blvd,40.0651038,-83.0249434,43214,US,Columbus,OH,United States
+43,5150bf62e4b0ae535166523e,Giant Eagle Supermarket,1250 North Hamilton Road,40.0511815,-82.8627094,43230,US,Columbus,OH,United States
+44,5f69203326cd3a0d6fcadef2,Meijer Pharmacy,5050 N Hamilton Rd,40.060148,-82.86054,43230,US,Columbus,OH,United States
+45,5f381e2e579aa609b0f7241a,Giant Eagle Pharmacy,1250 N Hamilton Rd,40.051197,-82.861857,43230,US,Gahanna,OH,United States
+46,4e792b53e4cdb158f1c7b97c,Kroger Pharmacy,1425 Worthington Centre Dr,40.12271158648668,-82.97938227653503,43085,US,Worthington,OH,United States
+47,4c1a6a628b3aa593e993955f,The Vitamin Shoppe,1370 Polaris Pkwy,40.142099,-82.981425,43240,US,Columbus,OH,United States
+48,591c68dd78782c1281ef319e,Kroger Pharmacy,300 S Hamilton Rd,40.0115769,-82.8651912,43230,US,Gahanna,OH,United States
+49,591c68eb829b0c45dff776ef,Kroger Pharmacy,5991 S Sunbury Rd # A,40.0845519,-82.8971065,43081,US,Westerville,OH,United States
+50,4c6d4d1de6b7b1f78442a98e,CVS pharmacy,3100 Cleveland Ave,40.0311114857462,-82.96378269247423,43224,US,Columbus,OH,United States
+51,4bf97a565ec320a15f4f8ad3,CVS pharmacy,4400 Cleveland Ave,40.05932387685119,-82.95262485458552,43224,US,Columbus,OH,United States
+52,4b0a8103f964a5208e2423e3,Dairy Mart / Marathon Gas,4242 Morse Rd,40.05736533755117,-82.89823231455263,43230,US,Columbus,OH,United States
+53,4c7e4fa8d598a093d551c562,County Line Pharmacy,484 County Line Rd,40.137418,-82.945199,43081,US,Westerville,OH,United States
+54,4d266c70068e8cfabaa5b04c,Complete Nutrition,1249 Polaris Pkwy,40.141109466552734,-82.98651885986328,43240,US,Columbus,OH,United States
+55,4eb000397ee5df194fe9e27b,Family Medical Pharmacy,"5770 Karl Rd, Columbus, OH 43229",40.084790000000005,-82.974901,43229,US,Columbus,OH,United States
+56,59cd0d39666116717aaabcca,Costco Pharmacy,1500 Gemini Pl,40.150623222578005,-82.97774688944428,43240,US,Columbus,OH,United States
+57,4bb4f88b0ef1c9b6afb0f412,Uptown Pharmacy,23 N State St,40.12647511572592,-82.93229677174513,43081,US,Westerville,OH,United States
+58,4fb67b80e4b0a5b7c44fbc8d,Target Pharmacy,,40.05617627833311,-82.92072868160496,43219,US,Columbus,OH,United States
+59,4ced2ca3840a9eb028bc9f13,Vitamin Shoppe,4053 Morse Xing,40.0531,-82.920701,43219,US,Columbus,OH,United States
+60,4b4f50d7f964a520fc0027e3,The Ohio State University College of Medicine,370 W 9th Ave,39.99469544431155,-83.01846742630005,43210,US,Columbus,OH,United States
+61,4b41c204f964a520c1c825e3,OhioHealth Riverside Methodist Hospital,3535 Olentangy River Rd,40.0309995,-83.0348487,43214,US,Columbus,OH,United States
+62,4b4fb823f964a5206a1227e3,Dodd Rehabilitation Hospital,480 Medical Center Dr,39.99289214246765,-83.02000315263548,43210,US,Columbus,OH,United States
+63,5848403388cfcc5ae06e7aad,Worthington Urgent Care,2245 W Dublin Granville Rd Ste 101,40.08970425515102,-83.04991559259031,43085,US,Worthington,OH,United States
+64,57a92ab4498ed27090e01c9c,Ohio State Brain Spine Hospital,300 W 10th Ave,39.995665,-83.016136,43210,US,Columbus,OH,United States
+65,4b4fb7daf964a5205f1227e3,Doan Hall (DN),410 W 10th Ave,39.995646175619385,-83.0171396718176,43210,US,Columbus,OH,United States
+66,5c2410185a2c91002c000f2b,Ohio State University Wexner Medical Center,,39.995072,-83.017816,43210,US,Columbus,OH,United States
+67,4be45baa2468c92873a8fe42,Riverside Main Office Buildings,3545 Olentangy River Rd,40.03188952407403,-83.03280989806431,43214,US,Columbus,OH,United States
+68,4be042552ffe0f47a3e1876a,Riverside Women's Center,3535 Olentangy River Rd,40.03154222927903,-83.0346864175966,43214,US,Columbus,OH,United States
+69,4b50cc94f964a520143327e3,Richard M Ross Heart Hospital,452 W 10th Ave,39.99451891587913,-83.01821760358528,43210,US,Columbus,OH,United States
+70,4faf14a3e4b03338fb231fc6,The James Cancer Hospital and Solove Research Institute,460 W 10th Ave,39.99491649418353,-83.01961449437542,43210,US,Columbus,OH,United States
+71,4c054b4ff56c2d7fb3701f66,The Ohio State University Center for Continuing Medical Education,600 Ackerman Rd,40.02027712530522,-83.03004209652586,43202,US,Columbus,OH,United States
+72,57d3011b498e5dd379a5ffc1,University Hospital Main OR,410 W 10th Ave,39.995704,-83.01714,43210,US,Columbus,OH,United States
+73,4edb49daf9abeea3dab7ba6f,The Jungle,,40.02553057047741,-83.03343402225926,43202,US,,Ohio,United States
+74,4d6393bfa45b54811feb022d,Riverside ICU,Olentangy River Road,40.03016466591101,-83.03197597499711,43202,US,Columbus,OH,United States
+75,4c8fb5570b9e37047698615e,Riverside Methodist Hospital 7 Yellow Oncology,3535 Olentangy River Rd,40.03096865962028,-83.03401618319572,43214,US,Columbus,OH,United States
+76,4f0dd26de4b0e190abdf9e72,Comprehensive Transplant Center (OSU Medical Center),395 W 12th Ave,39.99604034423828,-83.01786804199219,43210,US,Columbus,OH,United States
+77,4f5e8804e4b0df995366ddc2,6 Orange,"W North Broadway St, Columbus, OH",40.0310173034668,-83.0338134765625,43214,US,Columbus,OH,United States
+78,4c09280e6071a593d660dd32,OSUMC IT,640 Ackerman Rd,40.019632809082964,-83.02992113411605,43202,US,Columbus,OH,United States
+79,4eb6d16a9a52ad1e3f87c78b,3 Orange,,40.02885951375621,-83.03300395411961,43202,US,Columbus,OH,United States
+80,4fe85397e4b045277fc6f3a0,Next To Nancy,,40.031055,-83.033057,43214,US,Columbus,OH,United States
+81,4bd099ddcaff9521d427cff0,CVS pharmacy,1885 Henderson Rd,40.054492171238614,-83.06941457472115,43220,US,Upper Arlington,OH,United States
+82,4b808228f964a520957830e3,CVS pharmacy,4777 Sawmill Rd,40.06455036547068,-83.09384874111761,43220,US,Columbus,OH,United States
+83,4b797e82f964a5209ffc2ee3,CVS pharmacy,933 Bethel Rd,40.06293713150684,-83.04418327365215,43214,US,Columbus,OH,United States
+84,4c28d195d26eb713025314d1,Walgreens,1444 W 5th Ave,39.9891221,-83.045026,43212,US,Grandview Heights,OH,United States
+85,4bbd004d593fef3bf3ec0256,CVS pharmacy,2680 N High St,40.01701382843462,-83.0114499137567,43202,US,Columbus,OH,United States
+86,4b6b7644f964a5205e0a2ce3,CVS pharmacy,2477 Hard Rd,40.11763682328819,-83.06781299457667,43235,US,Columbus,OH,United States
+87,4b671db8f964a520b23b2be3,CVS pharmacy,1495 W 5th Ave,39.9885653753884,-83.046248981811,43212,US,Columbus,OH,United States
+88,4b4b7b56f964a520719d26e3,Walgreens,3141 Tremont Rd,40.02090613035694,-83.06163655917771,43221,US,Upper Arlington,OH,United States
+89,4b511f2bf964a520894327e3,Walgreens,4530 Kenny Rd,40.05363,-83.0488434,43220,US,Columbus,OH,United States
+90,4b0740e4f964a520bffa22e3,CVS pharmacy,759 Neil Ave,39.976492153578434,-83.01202810730929,43215,US,Columbus,OH,United States
+91,4b996e11f964a520f67a35e3,CVS pharmacy,1634 Neil Ave,39.99480808588684,-83.01433156161127,43201,US,Columbus,OH,United States
+92,591c68bc123a19680bcf936b,Kroger Pharmacy,1955 Henderson Rd,40.05426042,-83.07274194,43220,US,Columbus,OH,United States
+93,4c728c307121a1cdfcb962d1,LabCorp,4830 Knightsbridge Blvd Ste K,40.058384999999994,-83.038092,43214,US,Columbus,OH,United States
+94,591c68bee4c45914e2815839,Kroger Pharmacy,1375 Chambers Rd,39.9927207,-83.0433408,43212,US,Columbus,OH,United States
+95,59a5eb514c954c48f379342e,CVS pharmacy,1777 Olentangy River Road,39.993737,-83.02739,43212,US,Columbus,OH,United States
+96,4dceecaa45ddbe15f8962420,Market District Pharmacy,Market District Supermarket,40.02020370766705,-83.05792808532715,43221,US,Upper Arlington,OH,United States
+97,5f6b9c9b3c22e7219254116b,Walk In Urgent Care,3597 E Main St,39.955747,-82.9016822,43213,US,Whitehall,OH,United States
+98,57f52119498e31c707a77bf1,Bexley Urgent Care,2216 E Main St,39.9577476,-82.9397293,43209,US,Bexley,OH,United States
+99,4c1be422c09ed13a1992828e,Ohio Hospital for Psych,880 Greenlawn Ave,39.940059661865234,-83.01985168457031,43223,US,Columbus,OH,United States
+100,53c94087498ec1d300728e8a,The Heart Center,700 Childrens Dr,39.95257365641861,-82.97911837075296,43205,US,Columbus,OH,United States
+101,5b964a0ef00a700039edfc0b,OSU Tower 8,,39.969345,-82.963645,43203,US,Columbus,OH,United States
+102,5a3988f335f9834493db1815,Nch Magic Forest,,39.952588,-82.979284,43205,US,Columbus,OH,United States
+103,50c25e49e4b0de89cf63adbe,OSU East ACC,,39.970555,-82.962037,43203,US,Columbus,OH,United States
+104,4daf03dca86e29d01a4ff696,Twin Valley Behavioral Healthcare,2200 W Broad St,39.957918567182475,-83.05942170643641,43223,US,Columbus,OH,United States
+105,501a0150e4b0bd052aa962b2,Nch GI Clinic,700 Childrens Dr,39.95263840543745,-82.98018391564223,43205,US,Columbus,OH,United States
+106,50202f02e4b04375e4de2890,Nationwide Children's Magic Forest,630 Childrens Dr,39.95246887207031,-82.97944641113281,43205,US,Columbus,OH,United States
+107,4c5c8848fff99c74af4538d3,OhioHealth Emergency Medical Services,393 E Town St Ste 214,39.959482665865806,-82.98986971378325,43215,US,Columbus,OH,United States
+108,4b55c828f964a520beef27e3,Nationwide Children's Hospital,700 Childrens Dr,39.9532936,-82.979268,43205,US,Columbus,OH,United States
+109,4b48b8f5f964a520215426e3,OhioHealth Grant Medical Center,111 S Grant Ave,39.9600025,-82.9910889,43215,US,Columbus,OH,United States
+110,4f353e8ce4b07c0116e75e74,Mohun Health Care Center,"2340 Airport Dr, Columbus, OH 43219",39.990875244140625,-82.94063568115234,43219,US,Columbus,OH,United States
+111,4c5164f29426c928705fad73,Chalmers P. Wylie VA Center,420 N James Rd,39.980652899714265,-82.91011020210182,43219,US,Columbus,OH,United States
+112,4beaa86861aca5935ef88300,Ohio State University Hospital East,181 Taylor Ave,39.970459073546614,-82.96237575378402,43203,US,Columbus,OH,United States
+113,52efb063498ef03e3b26bf9c,Nationwide Children's Hospital Outpatient Center,555 S 18th St,39.95326197643129,-82.97703535574688,43205,US,Columbus,OH,United States
+114,505a209be4b052ecdb0a3600,NCH H9B,,39.94843936322949,-82.97572740932503,43206,US,Columbus,OH,United States
+115,4f468f10e4b0f8695eb4a739,RDTC,,39.9608101512777,-83.09792813223802,43215,US,Columbus,OH,United States
+116,4eb131589a52c49f4ce09e23,Replacement Hospital,700 Childrens Dr,39.952617805878866,-82.98289231705311,43205,US,Columbus,OH,United States
+117,50100f76e4b00e15911b914d,h2b conference room,,39.95382418481467,-82.97999495326786,43205,US,Columbus,OH,United States
+118,50ff367be4b00a10715edd82,NCH ED Cast Room,,39.952806492304035,-82.98099749748083,43205,US,Columbus,OH,United States
+119,4bdf35b0e75c0f472047ca03,Nationwide Childrens Hospital L garage,635 livingston Ave.,39.95102405542448,-82.98248291464914,43206,US,Columbus,OH,United States
+120,5c867400d41bb700391c4579,Equitas Health King-Lincoln Pharmacy,736 E Long St,39.9675017,-82.9814171,43203,US,Columbus,OH,United States
+121,4d8b9d030c4e41bd7354667f,CVS pharmacy,3355 E Livingston Ave,39.94587,-82.906816,43227,US,Columbus,OH,United States
+122,4d27b452c406721e89656ab6,CVS pharmacy,2020 Eakin Rd,39.932349685225134,-83.04872059585644,43223,US,Columbus,OH,United States
+123,4c4217a4e26920a1f2855fe7,CVS pharmacy,1500 Lockbourne Rd,39.935005,-82.963865,43206,US,Columbus,OH,United States
+124,4c60112223e303bb39d77407,Walgreens,1492 E Broad St,39.970672607421875,-82.96308135986328,43205,US,Columbus,OH,United States
+125,57a2d9fe498e6d1766a8030a,Equitas Health Pharmacy Columbus,1033 N High St,39.983527,-83.005124,43201,US,Columbus,OH,United States
+126,547cc467498e02f12de05577,Giant Eagle Supermarket,2801 N. High Street,40.0190394,-83.0133924,43202,US,Columbus,OH,United States
+127,4c508dad3940be9ae64f6f07,Caremark Pharmacy,1 Nationwide Plz,39.967319,-83.002688,43215,US,Columbus,OH,United States
+128,591c68bd0f013c51d6dc9741,Kroger Pharmacy,2090 Crown Plaza Dr,40.06475980732909,-83.07325286234044,43235,US,Columbus,OH,United States
+129,4c0808a7009a0f476476e5bf,Walgreens,2770 W Broad St,39.9553382,-83.0746122,43204,US,Columbus,OH,United States
+130,4ba57c81f964a520e10b39e3,Kroger,3675 E Broad St,39.97186007963474,-82.90312423380783,43213,US,Whitehall,OH,United States
+131,4b65c160f964a520adfd2ae3,Walgreens,1280 Demorest Rd,39.9283074,-83.0896686,43204,US,Columbus,OH,United States
+132,4b5e0005f964a520647829e3,CVS pharmacy,109 S High St,39.959857549174664,-83.00026308789685,43215,US,Columbus,OH,United States
+133,4bd5d0bb6798ef3baa05648d,CVS pharmacy,3499 Clime Rd,39.9271686377872,-83.09003975748185,43223,US,Columbus,OH,United States
+134,4b378d65f964a5201f4225e3,Walgreens,3583 E Broad St,39.97246656053087,-82.90460228919983,43213,US,Columbus,OH,United States
+135,4b9197e7f964a5204bc833e3,CVS pharmacy,591 E Livingston Ave,39.95196346491288,-82.98271312176385,43215,US,Columbus,OH,United States
+136,4b190771f964a5204fd723e3,CVS pharmacy,2532 E Main St,39.95720859818417,-82.93152663614941,43209,US,Columbus,OH,United States
+137,4e690365483bc77630acb7b4,Bioscrip Specialty Pharmacy,2795 Charter St,40.00971,-83.13646800000001,43228,US,Columbus,OH,United States
+138,5a748c2e029a55597bb2f193,MICU,,39.977097,-82.843361,43213,US,Columbus,OH,United States
+139,4bbb55801261d13aba86eb98,Walgreens,4617 E Main St,39.954924561475515,-82.87557274103165,43213,US,Whitehall,OH,United States
+140,4bf88909b182c9b657b8775a,Walgreens,6201 E Broad St,39.97951662906214,-82.8371487557888,43213,US,Columbus,OH,United States
+141,4fee13fae4b0b1e831126d14,CVS pharmacy,3424 S High St,39.891990206479385,-82.99610318780917,43207,US,Columbus,OH,United States
+142,4caef14739458cfa892cf69f,CVS pharmacy,4548 E Main St,39.955807699903225,-82.87700394103055,43213,US,Whitehall,OH,United States
+143,4bb774aeef159c74cb3677f7,Walgreens,3445 S High St,39.891301464325686,-82.99757570028305,43207,US,Columbus,OH,United States
+144,591c68d895d986522ac9f70f,Kroger Pharmacy,4485 Refugee Rd,39.91354675,-82.87725279,43232,US,Columbus,OH,United States
+145,58598a5d469aef71f134c778,Giant Eagle Pharmacy N Hamilton rd,1250 N Hamilton Rd,39.896682,-82.886491,43230,US,Columbus,OH,United States
+146,4b573d20f964a520ab2c28e3,Doctors Hospital,5100 W Broad St,39.9530104,-83.1376863,43228,US,Columbus,OH,United States
+147,4f68883fe4b0c15ca3a55b9b,NCH 5T Pulmonary Unit,,39.952906,-82.979044,43205,US,Columbus,OH,United States
+148,4d76c16f46a8b60c853e3c2a,Columbus Health Care Center,clime rd.,39.9297631,-83.101294,43228,US,Columbus,OH,United States
+149,4ec1982e29c25ce5a2c680be,Doctors West Radiology Department,"Norton Ln, Columbus, OH 43213",39.9530266,-83.1372397,43213,US,Columbus,OH,United States
+150,551c1116498e6d869618255f,Walmart Pharmacy,5200 West Pointe Plaza,39.98242,-83.14721,43228,US,Columbus,OH,United States
+151,4b8db3b5f964a520800933e3,CVS pharmacy,2160 N High St,40.00619288395909,-83.00905650551843,43201,US,Columbus,OH,United States
+152,4b63eafff964a52007972ae3,CVS pharmacy,4801 W Broad St,39.95183983585129,-83.12963168083772,43228,US,Columbus,OH,United States
+153,591c68b628374e44f1db9cee,Kroger Pharmacy,3600 Soldano Blvd,39.956727690961834,-83.09684157371527,43228,US,Columbus,OH,United States
+154,591c68b8ba4a647f609cef26,Kroger Pharmacy,2161 Eakin Rd,39.9312736,-83.0535822,43223,US,Columbus,OH,United States
+155,591c68b58c35dc41015d6413,Kroger Pharmacy,1585 Georgesville Square Dr,39.9197951,-83.1211749,43228,US,Columbus,OH,United States
+156,4d06f0be26adb1f76571df70,So.noco Gas Station,,40.01237869262695,-82.95073628425598,43211,US,Columbus,OH,United States
+157,4fa6da13e4b09571e0333481,The Stratosphere,,39.996645974369805,-82.99771616600295,43201,US,Columbus,OH,United States
+158,551c1118498e6d8696184df4,Walmart Pharmacy,3657 E Main St,39.956127761194,-82.8995040298507,43213,US,Whitehall,OH,United States
+159,57b4ffeecd104a9f19cca408,Community Pharmacy,114 W 3rd Ave Ste 114,39.98435,-83.008002,43201,US,Columbus,OH,United States
+160,5da621ea5621440008967ffb,CVS Pharmacy at Target,3955 E Broad St,39.9708506,-82.8950731,43213,US,Whitehall,OH,United States
+161,4dea91c8fa76cc1b8ae937c9,Mount Carmel Pharmacy,777 W State St,39.95759963989258,-83.02082061767578,43222,US,Columbus,OH,United States
+162,4cec5af6d7268cfad79cbc4e,Sunrise of Bexley,2600 East Main St,39.95729925,-82.92850289,43209,US,Columbus,OH,United States
+163,4db883844df0ded98bbecacd,Ohio State Sports Medicine and Rehabilitation Downtown,21 E State St,39.96001,-82.99954,43215,US,Columbus,OH,United States
+164,50683ca3e4b08908480bcda3,NCH Blood Bank,700 Childrens Dr,39.952955,-82.98123,43205,US,Columbus,OH,United States
+165,4ec0714c0e019a162b109973,T4 Elavator,"700 Childrens Dr, Columbus, OH 43205",39.95267336096526,-82.97893990342934,43205,US,Columbus,OH,United States
+166,4ec10fd7b6341cd41f464f7b,Surgical Family Hospitality,,39.95291566666666,-82.9791708,43205,US,Columbus,OH,United States
+167,4f87d26ce4b0e5ed72f49d00,5 West,,39.95663116556698,-82.99742970844734,43215,US,Columbus,OH,United States
+168,5134d98de4b0a00287894126,The James Mobile Mammography Unit,,39.9524110978101,-82.98232020273389,43215,US,Columbus,OH,United States
+169,50aa609fe4b0740a1956aa89,Advantage Diagnostic,1430 S High St,39.932682037353516,-82.99504852294922,43207,US,Columbus,OH,United States
+170,4eb75fd882313162701578dc,NCH respiratory Care Dept,,39.95302871106813,-82.98001409653757,43205,US,Columbus,OH,United States
+171,4e1c1331a809bd1305c21dd6,OSU Hospital Tower 4,1392 E Broad St,39.967282,-82.96398,43205,US,Columbus,OH,United States
+172,4f50ff28e4b0b71c799d5a07,Rdtc,,39.956336869844854,-82.99915613931788,43215,US,Columbus,OH,United States
+173,4c1b7a3cc09ed13a0c7c828e,Regency Hospital of Columbus,1430 S High St,39.933318643092896,-82.99541494599254,43207,US,Columbus,OH,United States
+174,4e1c814852b1c2b69f35a771,Nationwide Children's Surgery Center,700 Childrens Dr,39.952830970608865,-82.97937769739058,43205,US,Columbus,OH,United States
+175,4f50244ce4b0e66f253561f3,Ohio hospital of psychiatry,"Greenlawn Ave, Columbus, OH 43223",39.94016762287871,-83.01961799160037,43223,US,Columbus,OH,United States
+176,5a04465f79187178743373f9,Children's Hospital Ambulatory,,39.953094,-82.98812,43215,US,Columbus,OH,United States
+177,4c83caa0d34ca1435b6a3880,The Ann Burba Crane Center For Women And Babies,111 S Grant Ave Fl 4,39.960810828719445,-82.99126876382984,43215,US,Columbus,OH,United States
+178,4b96b884f964a52036e034e3,CVS pharmacy,3307 E Broad St,39.971724107758924,-82.91305701191953,43213,US,Columbus,OH,United States
+179,591c68d67269fe095021a1c4,Kroger Pharmacy,2000 E Main St,39.95823266,-82.94505805,43205,US,Columbus,OH,United States
+180,4d07947dc2e537045f0eca67,Kroger Pharmacy,150 W Sycamore St,39.9500474,-83.0017609,43215,US,Columbus,OH,United States
+181,4f799c46e4b06bb78053179e,krgers harrisburg pike,,39.93116511831302,-83.05343957559224,43223,US,Columbus,OH,United States
+182,5363ea90498e86341ee8aef2,Apothecare Pharmacy,16 W Long St,39.96506118774414,-83.00142669677734,43215,US,Columbus,OH,United States
+183,53a44db1498ed8a14f086910,Giant Eagle Supermarket,6867 East Broad Street,39.9806293,-82.8207628,43213,US,Columbus,OH,United States
+184,5722ad2bcd102256e14dd66e,The Little Clinic,7000 E Broad St,39.984432899632814,-82.8161175625155,43213,US,Columbus,OH,United States
+185,4f76f543e4b0a174aecba418,ICU/CCU,,39.96074235987641,-82.99078069171482,43215,US,Columbus,OH,United States
+186,50148312e4b0ad6ab2d1ac84,Medical Specialty Unit,111 S Grant Ave,39.960712,-82.991645,43215,US,Columbus,OH,United States
+187,4fe261ace4b0fcbc92b15f27,Respiratory Workroom H2B,,39.952464286849526,-82.98159586741768,43215,US,Columbus,OH,United States
+188,5992eedfdec1d651220e8c31,I.S. Desktop Services (Ross Hall-Lower Level),700 Childrens Dr,39.9534661026288,-82.97907930011455,43205,US,Columbus,OH,United States
+189,5722add1498e943440be39ae,The Little Clinic,3637 S High St,39.8881063,-83.0013631,43207,US,Columbus,OH,United States
+190,591c68b1a8eb6020f9f93039,Kroger Pharmacy,3637 S High St,39.8882993,-83.0012586,43207,US,Columbus,OH,United States
+191,551c1117498e6d8696182e18,Walmart Pharmacy,3579 S High St,39.889705657958984,-83.0006332397461,43207,US,Columbus,OH,United States
+192,57c92333498ea48110bd97d0,Equitas Health Short North Medical Center,1033 N High St,39.9835247,-83.0050966,43201,US,Columbus,OH,United States
+193,5722ae2338fa3b6f6b0730b4,The Little Clinic,1585 Georgesville Square Dr,39.9204558,-83.1212386,43228,US,Columbus,OH,United States
+194,551c111a498e6d8696187883,Walmart Pharmacy,1221 Georgesville Rd,39.92686080932617,-83.12041473388672,43228,US,Columbus,OH,United States
+195,5197c36e498efc4271cb1a02,The Vitamin Shoppe,1505 Hilliard Rome Rd,39.98225457,-83.15187063,43228,US,Columbus,OH,United States
+196,5123aacee4b0424406d39dbf,Natures Sunshine,,40.0008448039414,-83.11084763935635,43228,US,Columbus,OH,United States
+197,4f85b7a7e4b0e90cd4ba047c,Gender Neutral Animal Day,,40.01318359375,-83.11116027832031,43221,US,Columbus,OH,United States
+198,4eee7a2a722ea77618e50456,Dargen Herbs & Vitamins,1371 Goldmill Way,39.984818067037864,-83.1071393309959,43204,US,Columbus,OH,United States
+199,4f7bca48e4b02cdb82864b9a,Doctor's Hospital 5th Floor,,39.95371510115071,-83.14584741438576,43228,US,Columbus,OH,United States
+200,4cacc00c2f08236a79988e61,Internal Medicine Pediatrics Grandview,895 Yard St,39.991088370000234,-83.04089954316754,43212,US,Columbus,OH,United States
+201,4c2e8fab213c2d7f6e782f5d,Select Specialty Hospital,995 Ewing Aly,39.98397452109678,-83.0089681265476,43201,US,Columbus,OH,United States
+202,4c66bb588e9120a18ca8d864,Children Hospital,,40.01392643333333,-83.0674423,43221,US,Columbus,OH,United States
+203,4fec5f2be4b0777584586ed3,OSU Medical Center - Nuclear Medicine,,40.01342139394673,-83.00905731974512,43202,US,Columbus,OH,United States
+204,58f663b00868a230205b60cc,PACU James Cancer Hospital,,39.997754,-83.01586,43210,US,Columbus,OH,United States
+205,4b9e43abf964a520ebd536e3,Mother's Milk Bank,1132 Hunter Ave,39.984928131103516,-83.00930786132812,43201,US,Columbus,OH,United States
+206,4ed938269911a3e78bc41cd2,Atrium waiting area at OSU Medical Center.,,39.99548460416436,-83.0155051439822,43201,US,Columbus,OH,United States
+207,4f07244be4b0ca3a5ae812b9,CMC,,39.931955981547425,-83.04822770522054,43223,US,Columbus,OH,United States
+208,5063dfe0e4b0b0ae359493ec,OSU Wexner CDU unit,,39.994505,-83.01781,43210,US,Columbus,OH,United States
+209,4d9ef48c35a9224b9f244085,Select Specialty Hospital,793 W State St,39.957228,-83.021911,43222,US,Columbus,OH,United States
+210,4ffd18d7e4b07010bfd4c546,Well Baby Nursery OSUMC,,39.994456374419975,-83.01775045481855,43210,US,Columbus,OH,United States
+211,4b9904b5f964a5202b5c35e3,Victorian Village Health Center,1132 Hunter Ave,39.984298076669695,-83.00767512637145,43201,US,Columbus,OH,United States
+212,50e5b552e4b01244ac745b9b,Doctors West 5th Floor,5100 W Broad St,39.952674865722656,-83.1377944946289,43228,US,Columbus,OH,United States
+213,4fc3aef0e4b0b469df9e8883,Department of Pathology,,39.99137899098471,-83.02205725073978,43210,US,Columbus,OH,United States
+214,4b721d8af964a520746f2de3,Express Scripts,255 Phillipi Rd,40.02641719105675,-83.13932425686555,43228,US,Columbus,OH,United States
+215,5c8a13075c683800397ab0fd,Mount Carmel Behavioral Health,4646 Hilton Corporate Drive,39.93572235107422,-82.8705825805664,43232,US,Columbus,OH,United States
+216,5190fb9250190d241922a9ae,Whitehall Primary Care Center,561 S Yearling Rd,39.96192308542914,-82.88648620413511,43213,US,Whitehall,OH,United States
+217,4f20234be4b05266c3978569,Mount Carmel East Siegel Center,,40.00697957103275,-82.88710206770588,43213,US,Columbus,OH,United States
+218,4e1dad8e18a8e423cd57696a,Maternity Pavilion @ Mt. Carmel St. Ann's,Cleveland ave.,40.11403033393618,-82.94735411440429,43081,US,Westerville,OH,United States
+219,4cbee136b6c4224bd19cef94,James P Wylie VA Ambulatory Care,420 N James Rd,39.980709075927734,-82.90933990478516,43219,US,Columbus,OH,United States
+220,505b4704e4b049715048679a,Sarah's Orthopedic Room,,39.978679,-82.962581,43203,US,Columbus,OH,United States
+221,4eb2801861af6506d54b0ccd,Riverside Invasive Recovery Unit,3535 Olentangy River Rd,39.9759160457635,-82.97563817115244,43214,US,Columbus,OH,United States
+222,4d67ad629792b1f7c431401f,Ohio Medical-east,,39.947549,-82.944373,43209,US,Columbus,OH,United States
+223,51095529e4b001b56b9b7794,Wexner Rehabilitation Center #8,,39.94530578791566,-82.9361253552216,43209,US,Columbus,OH,United States
+224,4f329873e4b057434da9e58d,VA Hospital,,39.956391742729544,-82.91534346954258,43213,US,Columbus,OH,United States
+225,551c111a498e6d869618919f,Walmart Pharmacy,50 E Schrock Rd,40.11103057861328,-82.9230728149414,43081,US,Westerville,OH,United States
+226,4d7a5495a1236dcbcd00dd5e,Medical Arts Pharmacy,1901-2099 Cleveland Innis Plaza,40.036303997039795,-82.96184599399567,43224,US,Columbus,OH,United States
+227,591c68db340a587ac9751820,Kroger Pharmacy,7000 E Broad St,39.9844599,-82.8161354,43213,US,Columbus,OH,United States
+228,4fe4fe38e4b09df1e82d6868,Danes Drugs,,39.980224609375,-82.83135986328125,43213,US,Columbus,OH,United States
+229,4f54b3b1e4b0d9ab7ce4493d,Grief Healing Garden,,40.03133676085551,-83.03340779867257,43214,US,Columbus,OH,United States
+230,4f0f20cae4b09cff01803bb3,8 Yellow,,40.03121151625748,-83.03367003406971,43214,US,Columbus,OH,United States
+231,4f18ca10e4b0f066f61757ec,3rd Floor Riverside Hospital,Olentangy River Road,40.03106864971571,-83.03300919886992,43085,US,Columbus,OH,United States
+232,5f7f66eca6f61405c7ad36d0,Family Urgent Care,7420 Sawmill Rd Ste C,40.1165568,-83.0893583,43235,US,Columbus,OH,United States
+233,4fea0bbae4b05ce56f899bae,riverside cancer specialist,,40.15942411256334,-83.01889406507794,43214,US,Columbus,OH,United States
+234,50b648e2e4b03158df112448,Coughlin Pharmacy,Shrock Road,40.104900303892556,-82.97617884764895,43229,US,Columbus,OH,United States
+235,4f3037ede4b062ad2deda5a0,Leaves of Life,7870 Olentangy River Rd,40.12562561035156,-83.03604888916016,43235,US,Columbus,OH,United States
+236,4c3cbfb77ea8952169542247,The Nutrition X,2158 Polaris Pkwy,40.14630889892578,-82.95994567871094,43240,US,Columbus,OH,United States
