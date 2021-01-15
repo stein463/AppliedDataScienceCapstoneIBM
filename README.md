@@ -35,4 +35,14 @@ The major variables and functions are:
 	- zip_info: webscrapes demographic data
 	- custom_metric: Custom Metric used for dendrograms
 	- custom_metric0: Custom Metric used for dendrograms Spearman
+	
+There is a special section to load csv files called CSV backup and loading section. There is a stop cell with contents "print(df" to stop running contents.
+
+Parts with their description are:
+- Part 1 Data Retrieval: Involves gathering of data with webscraping
+- Part 2 Modifying of Data: Modified column names to allow for proper reading
+- Part 3 Filtering and Adjusting of Data: Filtering data.
+- Part 4 Data Exploration: Exploring the data to better understand what is going on
+- Part 5 Clustering and Association Algorithms: Run clustering algorithms and create new models
+- Part 6 Results via Maps: Shows results created on maps  
 
