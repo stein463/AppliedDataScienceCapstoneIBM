@@ -1,7 +1,11 @@
-The weighted Spearman KMeans was chosen
+The weighted Spearman KMeans was chosen for 10 clusters.
 TODO List:
 
 - Plot WSS, BSS, and SSE
+- Plot Clustering on Map
+- Find relative locations on map for cluster points
+- Plot Actual Locations on Map
+
  
 
 
