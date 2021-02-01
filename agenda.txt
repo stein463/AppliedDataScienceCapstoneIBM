@@ -1,6 +1,23 @@
 The weighted Spearman KMeans was chosen for 10 clusters.
 - Plot hospital and Pharmacy location
 
+
+## Important info on python package:
+for Columbus addresses use the package: 
+
+### censusgeocode
+
+This will be used to get the current testing sites (or the ones on the pdf)
+
+In addition use these lines of code:
+
+" import censusgeocode
+dict(censusgeocode.address("717 E.17th Avenue", city='Columbus',state='Ohio',returntype='locations')[0])['coordinates'] "
+
+Note: check to make sure the address info is filled if not try one below the location for the address number (not street number)and one above the number and average both of the coordinates out.
+
+- Lastly create a data frame from that call it testing_sites_df and save it to a file called testing_sites.csv.
+
  
 
 
